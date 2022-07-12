@@ -10,3 +10,28 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+/*Navigation Bar*/
+
+.navbar {
+    display: flex;
+    color: #F9FAF8;
+    background-color: #580b0b;
+    padding: 10px 0px 10px 100px;
+    align-items: center;
+}
+
+.header-link {
+    display: flex;
+    margin-left: auto;
+    color:whitesmoke;
+    padding: 0px 100px 0px 0px;  
+}
+
+.header-link a {
+    text-decoration: none;
+    color: #E5E7EB;
+    font-size: 18px;
+    padding: 10px;
+    font-family: 'Roboto', arial;
+}
